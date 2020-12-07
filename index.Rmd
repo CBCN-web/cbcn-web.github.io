@@ -4,14 +4,14 @@ urlcolor: blue
 ---
 
 - The Nigerian Bird Atlas Project (NiBAP): Promoting public participation for birds & biodiversity conservation in Nigeria <br />
-By Sam Ivande 
+By Sam Ivande (PhD) 
 <br />
 <a href="Sam Ivande_CNBC talk_Nov 2020.pdf#" class="fas fa-download" title="Download presentation PDF">Download</a>	
 
 
 - Korama Tree Planting Initiative: Lessons from Experience
 <br />
-By Ahmad Sanda 
+By Prof Ahmad Sanda 
 <br />
 <a href="Ahmad Sanda_CBCN talk_Oct 2020.ppt#" class="fas fa-download" title="Download presentation as power point">Download</a>	
 
