@@ -1,0 +1,32 @@
+---
+title: "CBCN Publications"
+urlcolor: blue
+---
+
+- The Nigerian Bird Atlas Project (NiBAP): Promoting public participation for birds & biodiversity conservation in Nigeria <br />
+By Sam Ivande 
+<br />
+<a href="Sam Ivande_CNBC talk_Nov 2020.pdf#" class="fas fa-download" title="Download presentation PDF">Download</a>	
+
+
+- Korama Tree Planting Initiative: Lessons from Experience
+<br />
+By Ahmad Sanda 
+<br />
+<a href="Ahmad Sanda_CBCN talk_Oct 2020.ppt#" class="fas fa-download" title="Download presentation as power point">Download</a>	
+
+
+- Minutes of CBCN meeting for November <a href="Minutes-of-CBCN-monthly-meeting_November_2020.html#" class="fas fa-book" title="readF">read</a>	
+
+- Minutes of CBCN meeting for October <a href="Minutes-of-CBCN-monthly-meeting_October_2020.html#" class="fas fa-book" title="read">read</a>	
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+__Around the Web__
+
+<a href="mailto:conservationbiologistsinnig@gmail.com" class="ion-email" title="email">email</a>  <a href="https://twitter.com/theCBCN" class="ion-social-twitter" title="twitter">twitter</a>   <a href="https://github.com/cbcn-web" class="ion-social-github" title="GitHub">github</a>  

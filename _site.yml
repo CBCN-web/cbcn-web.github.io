@@ -1,0 +1,28 @@
+name: "Coalition of Biodiversity Conservationationists of Nigeria"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "CBCN"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Publications"
+      icon: fa-book
+      href: index.html
+  right:
+    - text: "Email"
+      icon: fa-envelope-o
+      href: mailto:conservationbiologistsinnig@gmail.com                    # CHANGE HERE 
+    - text: "Twitter"
+      icon: ion-social-twitter
+      href: https://twitter.com/theCBCN      # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/CBCN-web       # CHANGE HERE 
+
+output:
+  html_document:
+    theme: darkly
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
+    
